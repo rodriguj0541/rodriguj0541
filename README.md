@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Josue Rodriguez] 👋
 
-<!--
-**rodriguj0541/rodriguj0541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently taking CSC-113 AI Fundamentals and learning to collaborate with AI tools!
 
-Here are some ideas to get you started:
+## My Foo 🎯
+[World class community outreach specialist changing hearts and minds!]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- 🤖 AI collaboration and prompt engineering
+- 🐙 GitHub workflows and version control
+- 💡 Building my first AI assistants
+
+## Fun Fact
+[Veteran who enjoys hunting, fishing, reading, and being husband/dad!]
+
+## Find Me
+- 📫 Right here on GitHub!
